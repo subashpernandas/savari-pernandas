@@ -9,6 +9,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @SpringBootApplication
 @EnableSwagger2 
 @RefreshScope
+//Author Subash Savari Pernandas
 class AccountnamagementserviceoneApplication {
 
 	public static void main(String[] args) {
